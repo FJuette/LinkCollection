@@ -72,3 +72,4 @@
 * [100,000 free AI-generated headshots](https://thispersondoesnotexist.com/)
 * [Create and share beautiful images of your source code](https://carbon.now.sh/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
+* [Find awesome free illustration packs for all your projects](https://www.vektors.pro/)
