@@ -24,6 +24,11 @@
 * [Mermaid is a Javascript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams](https://github.com/mermaid-js/mermaid/tree/master)
 * [ReLaXed creates PDF documents interactively using HTML or Pug](https://github.com/RelaxedJS/ReLaXed)
 * [htmx allows you to access AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes](https://htmx.org/)
+* [Create a landing page in seconds](https://lampbuilder.com/)
+
+##### CSS
+
+* [CSS Selectors: A Visual Guide & Reference](https://fffuel.co/css-selectors/)
 
 #### Python
 
@@ -73,3 +78,4 @@
 * [Create and share beautiful images of your source code](https://carbon.now.sh/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [Find awesome free illustration packs for all your projects](https://www.vektors.pro/)
+* [Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.](https://github.com/Infisical/infisical)
